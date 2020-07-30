@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsignmentShopUI", "ConsignmentShopUI\ConsignmentShopUI.csproj", "{08F684D0-51B5-4E52-BAFF-0918739855D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsignmentShopLibrary", "ConsignmentShopLibrary\ConsignmentShopLibrary.csproj", "{7E47EA4B-7B1E-4D1B-874E-8B9C09A7FC31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F684D0-51B5-4E52-BAFF-0918739855D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F684D0-51B5-4E52-BAFF-0918739855D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F684D0-51B5-4E52-BAFF-0918739855D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F684D0-51B5-4E52-BAFF-0918739855D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E47EA4B-7B1E-4D1B-874E-8B9C09A7FC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E47EA4B-7B1E-4D1B-874E-8B9C09A7FC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E47EA4B-7B1E-4D1B-874E-8B9C09A7FC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E47EA4B-7B1E-4D1B-874E-8B9C09A7FC31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54A681B-96C1-43FD-8506-CA4403F2C02A}
+	EndGlobalSection
+EndGlobal

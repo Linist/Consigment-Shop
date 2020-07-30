@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bzblNMq1fuq/Wfl5y0jBum+9Ds1SkkmJAYhnF4+i1mn2VOTUd4VoI9J3ZvTW7nIMI59RBtkLXy299LSkf9EEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linis\\source\\repos\\ConsignmentShop\\ConsignmentShopLibrary\\ConsignmentShopLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\linis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

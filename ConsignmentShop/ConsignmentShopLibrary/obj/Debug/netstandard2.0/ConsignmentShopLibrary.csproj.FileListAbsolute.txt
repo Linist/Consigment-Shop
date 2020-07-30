@@ -1,0 +1,9 @@
+C:\Users\linis\source\repos\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.deps.json
+C:\Users\linis\source\repos\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.dll
+C:\Users\linis\source\repos\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\netstandard2.0\ConsignmentShopLibrary.pdb
+C:\Users\linis\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.csprojAssemblyReference.cache
+C:\Users\linis\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\linis\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.AssemblyInfoInputs.cache
+C:\Users\linis\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.AssemblyInfo.cs
+C:\Users\linis\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.dll
+C:\Users\linis\source\repos\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\netstandard2.0\ConsignmentShopLibrary.pdb
